@@ -1,30 +1,8 @@
 ﻿!This program cannot be run in DOS mode.
 D$HaryEf
 D$Xddref
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
 PQRSTUVW
 _^]\[ZYX
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
-VMProtect begin
-VMProtect end
 <0rF<9wB,0
 L$89l$8}
 L$d_^][d
@@ -697,7 +675,6 @@ C:\ProgramData\SK
 xhunter1.sys
 navagio.sysReset computer xhunter1 or navagio
 Do not open in Game
-Do not open in VM
 Do not open in OD
 Do not open in PCHunter
 Do not open in CE
@@ -1026,7 +1003,6 @@ DDDDUUUU
 BKbhTb~XBK!;
  inflate 1.1.3 Copyright 1995-1998 Mark Adler 
 0123456789ABCDEF
-Error decoding compressed text
  inflate 1.1.3 Copyright 1995-1998 Mark Adler 
 CNotSupportedException
 CMemoryException
@@ -3041,4 +3017,5 @@ H2L2P2X2\2`2d2h2l2
 8"8&8*8.82868:8>8B8F8J8N8R8V8Z8^8b8f8j8n8r8v8z8
 8@9P9`9d9h9l9
 ; ;$;(;,;0;4;8;<;@;D;H;L;\<`<
+
 
